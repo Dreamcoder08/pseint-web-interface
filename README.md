@@ -139,4 +139,4 @@ Incluye tokens, motion, ergonomia movil, checklist de accesibilidad y reglas de 
 | [Dreamcoder08](https://github.com/Dreamcoder08) | Software Architect · GDE · MVP — Profile |
 | [Dreamcoder_dots](https://github.com/Dreamcoder08/Dreamcoder_dots) | Arch Linux dotfiles |
 | [DreamFolio](https://github.com/Dreamcoder08/DreamFolio) | High-performance portfolio |
-| [ARKELYTEX](https://github.com/arkelythex) | Civic, Agri & Legal Tech for Peru |
+| [ARKELYTHEX](https://github.com/arkelythex) | Civic, Agri & Legal Tech for Peru |
