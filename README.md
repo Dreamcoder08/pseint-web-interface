@@ -129,3 +129,14 @@ Incluye tokens, motion, ergonomia movil, checklist de accesibilidad y reglas de 
 - Proximo paso recomendado:
   - separar panel de diagrama en ruta/modal on-demand
   - ampliar cobertura de UI en componentes criticos
+
+---
+
+## 🌐 Dreamcoder Ecosystem
+
+| Project | Description |
+|---------|-------------|
+| [Dreamcoder08](https://github.com/Dreamcoder08) | Software Architect · GDE · MVP — Profile |
+| [Dreamcoder_dots](https://github.com/Dreamcoder08/Dreamcoder_dots) | Arch Linux dotfiles |
+| [DreamFolio](https://github.com/Dreamcoder08/DreamFolio) | High-performance portfolio |
+| [ARKELYTEX](https://github.com/arkelythex) | Civic, Agri & Legal Tech for Peru |
